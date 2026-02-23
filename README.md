@@ -1,14 +1,14 @@
-# 💻 Coding Challenge: Production Ready Service
+# Assessment for DevOps and Cloud
 
-## 🧠 Objective
+## Objective
 
 You are asked to design a small production-ready service that could realistically run in a company environment.
 
 Build a containerized backend system exposed via a reverse proxy, with CI/CD and a documented cloud deployment approach.
 
-👉 Please work in a separate branch and commit all relevant changes in a clear and traceable manner.
+Please work in a separate branch and commit all relevant changes in a clear and traceable manner.
 
-## 📦 Requirements
+## Requirements
 
 ### Backend Service
 - Create a small REST API (language/framework of your choice):
@@ -27,7 +27,7 @@ Build a containerized backend system exposed via a reverse proxy, with CI/CD and
 ### CI/CD Pipeline
 - Create pipeline to demonstrating your skills
 
-### Cloud Deployment Design (Written)
+### Cloud Deployment Design (written)
 - Write a deployment guide describing how this runs in production.
 - Cloud provider choice
 - Architecture diagram 
@@ -40,6 +40,6 @@ Build a containerized backend system exposed via a reverse proxy, with CI/CD and
 - Disaster recovery considerations
 - Cost awareness
   
-## ⏱ Time Frame
+## Time Frame
 
 Please do not spend more than 6 hours on the implementation. Anything that cannot be implemented within this time frame may be documented in NEXT_STEPS.md, including a short description of how you would approach it.
